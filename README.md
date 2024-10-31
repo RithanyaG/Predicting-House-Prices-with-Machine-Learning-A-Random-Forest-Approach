@@ -30,4 +30,4 @@ Feature importance was analyzed using two methods:
 1. Built-in Feature Importance: Provided by the Random Forest model to identify which features contribute the most to the predictions.
 2. Permutation Feature Importance: Evaluated how much the model's accuracy decreased when each feature's values were randomly shuffled, providing another perspective on feature importance.
 
-This README gives a clear overview of the project, making it easy for others to understand and use your work. Feel free to adjust any sections to better suit your project or add more details as needed.
+This README gives a clear overview of the project.
